@@ -3,7 +3,7 @@
 This Web application is used to transfer money between multiple users virtually and also helps to see the transaction details.
 This project consist of 10 dummy users.
 
-<img src="" >
+<img src="https://github.com/sahilkarande/Apna-Bank/blob/main/Apna%20Bank%20Previews/Page%201.png" >
 
 **TECHNOLOGY STACK:**
 

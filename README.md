@@ -17,7 +17,20 @@ This project consist of 10 dummy users.
 
 Home Page > View all Users > Select and View one User > Transfer Money > Select reciever > View all Users > View Transfer History.
 
-Live : 
+# Samples: 
+
+<img src="https://github.com/sahilkarande/Apna-Bank/blob/main/Apna%20Bank%20Previews/Page%202.png" >
+
+----------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/sahilkarande/Apna-Bank/blob/main/Apna%20Bank%20Previews/Page%203.png" >
+
+----------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/sahilkarande/Apna-Bank/blob/main/Apna%20Bank%20Previews/Page%204.png" >
+
+----------------------------------------------------------------------------------------------------
+
          
  
 
